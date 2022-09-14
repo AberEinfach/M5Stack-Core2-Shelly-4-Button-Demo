@@ -22,4 +22,3 @@ Web:
 http:Shelly.cloud
 http:m5Stack.com
 
-curl -s https://api.github.com/repos/andybalaam/rabbit-escape/releases | egrep '"abereinfach"|"download_count"'
